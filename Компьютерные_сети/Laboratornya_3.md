@@ -84,3 +84,8 @@ scp [опции] [источник_файла] [куда_копировать]
 
 
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/f3c63579-3fa9-4571-9999-5df102a5445d" />
+
+
+
+<img width="1056" height="655" alt="image" src="https://github.com/user-attachments/assets/e22e05c1-a43b-4d24-820a-75fb4c5301f1" />
+
